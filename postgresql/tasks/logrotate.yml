@@ -1,6 +1,0 @@
----
-- name: logrotate configuration
-  copy:
-    src: logrotate_postgresql
-    dest: /etc/logrotate.d/postgresql
-    force: no

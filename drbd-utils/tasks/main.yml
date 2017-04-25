@@ -1,6 +1,0 @@
----
-- include: packages.yml
-
-- include: munin.yml
-
-- include: nagios.yml

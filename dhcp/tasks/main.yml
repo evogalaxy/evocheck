@@ -1,4 +1,0 @@
-- name: ensure packages are installed
-  apt:
-    name: isc-dhcp-server
-    state: present

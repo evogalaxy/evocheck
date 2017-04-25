@@ -1,4 +1,0 @@
-- debug:
-    msg: "Online DNS servers fails sometimes! Please change them in /etc/resolv.conf."
-
-# - meta: flush_handlers
